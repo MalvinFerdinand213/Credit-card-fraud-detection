@@ -1,0 +1,9 @@
+﻿tx_id,user_id,amount,country
+tx_1001,u123,75.5,IDN
+tx_1002,u456,55.1,IDN
+tx_1003,u123,1200,VNM
+tx_1004,u789,1950,SGP
+tx_1005,u123,82,IDN
+tx_1006,u456,45,IDN
+tx_1007,u999,140,MYS
+tx_1008,u123,950,MYS
